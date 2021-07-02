@@ -8,8 +8,8 @@
 
 SoftwareSerial ESP01(0,2);
 
-#define wifi_ssid "MYWIRE-WPA-132"
-#define wifi_password "iefee9aehiem"
+#define wifi_ssid ""
+#define wifi_password ""
 
 #define mqtt_server "192.168.2.247"
 #define mqtt_port 1883
